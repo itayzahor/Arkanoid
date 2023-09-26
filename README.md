@@ -13,6 +13,7 @@ In the end, just run the class Ass6Game.java.
 
 # About
 The game is constracted with 3 levels.
+
 The first one - Wide and easy.
 
 ![Level1](https://github.com/itayzahor/Arkanoid/assets/121388179/c91fcdf8-1ca0-4c49-9bc8-f2e4b2de7e01)
