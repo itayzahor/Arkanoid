@@ -8,12 +8,12 @@ Press - p to pause
 the goal is to hit all the breaks without losing the balls.
 
 # Running the game
-In order to run the game you need to open the a java project
-and add all classes in the src folder.
+In order to run the game you need to
 
-In addition you need to add the biuoop-1.4.jar file to the project.
-
-In the end, just run the class Ass6Game.java.
+1. open a java project
+2. add all classes in the src folder.
+3. you need to add the biuoop-1.4.jar file to the project.
+4. run the class Ass6Game.java.
 
 # About
 The game is constracted with 3 levels.
