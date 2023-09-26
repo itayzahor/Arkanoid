@@ -11,8 +11,11 @@ the goal is to hit all the breaks without losing the balls.
 In order to run the game you need to
 
 1. open a java project
+
 2. add all classes in the src folder.
+
 3. you need to add the biuoop-1.4.jar file to the project.
+  
 4. run the class Ass6Game.java.
 
 # About
