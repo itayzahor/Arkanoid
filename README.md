@@ -52,4 +52,5 @@ asignments 1,4,7 are unrelated to the game.
 
 # Author
 Itay Zahor 
-itayzahor123@gmail.com
+
+Linkedin www.linkedin.com/in/itay-zahor
